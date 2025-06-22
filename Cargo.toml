@@ -6,8 +6,8 @@ edition = "2024"
 [dependencies]
 
 [[bin]]
-name = "002_add_two_numbers"
-path = "src/002_add_two_numbers.rs"
+name = "001_two_sum"
+path = "src/001_two_sum.rs"
 
 [[bin]]
 name = "003_longest_substring"
