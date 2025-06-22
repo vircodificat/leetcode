@@ -1,0 +1,18 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "002_add_two_numbers"
+path = "src/002_add_two_numbers.rs"
+
+[[bin]]
+name = "003_longest_substring"
+path = "src/003_longest_substring.rs"
+
+[[bin]]
+name = "004_median_two_sorted_arrays"
+path = "src/004_median_two_sorted_arrays.rs"
